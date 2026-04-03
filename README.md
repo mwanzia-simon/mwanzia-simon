@@ -43,15 +43,7 @@ SQLite (Planning: MongoDB)
 ## 📊 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwanzia-simon&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/mwanzia-simon/mwanzia-simon/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwanzia-simon&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 ---
