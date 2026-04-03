@@ -1,51 +1,45 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate Front-End Developer & IT Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;IT+Student;Future+Full+Stack+Engineer;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 I'm currently studying IT
-- 💻 I love building web applications using HTML, CSS, and JavaScript
-- 🚀 Currently learning: Backend development (Flask / Node.js)
-- 🎯 Goal: Become a full-stack developer and build real-world systems
-- ⚡ Fun fact: I enjoy exploring new tech and leveling up like in anime 😄
+- 🎓 IT Student
+- 💻 Passionate about Web Development
+- 🚀 Currently learning Backend (Flask & Node.js)
+- 🎯 Goal: Become a Full-Stack Developer
+- ⚡ I enjoy leveling up like in anime
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React (learning)
+HTML | CSS | JavaScript | React (Learning)
 
-### ⚙️ Backend (Learning)
-- Python (Flask)
-- Node.js
+### ⚙️ Backend
+Python (Flask) | Node.js (Learning)
 
 ### 🗄️ Database
-- SQLite
-- (Planning: MongoDB, PostgreSQL)
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
+SQLite (Planning: MongoDB)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwanzia-simon&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mwanzia-simon&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwanzia-simon&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwanzia-simon&theme=radical" />
 </p>
 
 ---
+
 ## 📊 Top Languages
 
 <p align="center">
@@ -53,10 +47,19 @@
 </p>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/mwanzia-simon/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔹 PhoneBook App
-- React + Flask full-stack project
+- React + Flask full-stack app
 - CRUD operations
 - REST API integration
 
@@ -71,16 +74,9 @@
 
 ---
 
-## 🧠 Currently Learning
-- Authentication systems 🔐
-- API development 🌐
-- Full-stack architecture 🏗️
-
----
-
-## 💡 Quote I Like
+## 💡 Quote
 > "Consistency beats motivation."
 
 ---
 
-⭐️ From [mwanzia-simon](https://github.com/YOUR_USERNAME)
+⭐️ From https://github.com/YOUR_USERNAME
