@@ -51,7 +51,7 @@ SQLite (Planning: MongoDB)
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/mwanzia-simon/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/mwanzia-simon/mwanzia-simon/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -79,4 +79,4 @@ SQLite (Planning: MongoDB)
 
 ---
 
-⭐️ From https://github.com/YOUR_USERNAME
+⭐️ From https://github.com/mwanzia-simon
