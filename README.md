@@ -46,18 +46,6 @@ SQLite (Planning: MongoDB)
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mwanzia-simon&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
----
-
-## 📌 Featured Projects
-
-### 🔹 PhoneBook App
-- React + Flask full-stack app
-- CRUD operations
-- REST API integration
-
-### 🔹 Task Manager
-- Local storage CRUD app
-- Clean UI and modular JavaScript
 
 ---
 
