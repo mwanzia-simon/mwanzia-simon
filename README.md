@@ -25,13 +25,14 @@
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
 </p>
 
 * HTML5
 * CSS3
 * Tailwind CSS
 * JavaScript
+* TypeScript
 * React
 * Responsive Web Design
 
