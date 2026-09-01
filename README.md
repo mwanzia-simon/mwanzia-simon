@@ -16,7 +16,7 @@
 * 🔐 Interested in authentication, authorization, APIs, and backend architecture
 * 🏗️ Currently building and improving real-world projects
 * 🧠 Constantly learning, experimenting, and improving my development skills
-* ⚡ I enjoy leveling up like in anime
+
 
 ---
 
