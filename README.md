@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;IT+Student;Building+Real+World+Applications;Always+Learning+New+Things&center=true&width=550&height=50">
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 * 🎓 IT Student passionate about software development
