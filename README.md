@@ -128,7 +128,8 @@ I'm currently focused on improving my skills as a **MERN Stack Developer**, with
 
 ## 🌍 Connect With Me
 
-* 💻 GitHub: https://github.com/mwanzia-simon
+* GitHub: https://github.com/mwanzia-simon
+* TikTok: https://www.tiktok.com/@unlistedcodelogic
 
 ---
 
