@@ -131,6 +131,7 @@ I'm currently focused on improving my skills as a **MERN Stack Developer**, with
 * GitHub: https://github.com/mwanzia-simon
 * TikTok: https://www.tiktok.com/@unlistedcodelogic
 * Linkedin: https://www.linkedin.com/in/simon-makau-mwanzia
+* Instagram: https://www.instagram.com/unlisted_code_logic
 
 ---
 
