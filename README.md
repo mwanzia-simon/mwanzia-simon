@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;IT+Student;Building+Real+World+Applications;Always+Learning+New+Things&center=true&width=550&height=50">
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mwanzia-simon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ## 🧑‍💻 About Me
 
 * 🎓 IT Student passionate about software development
