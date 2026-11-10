@@ -109,7 +109,7 @@ I'm currently focused on improving my skills as a **MERN Stack Developer**, with
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwanzia-simon&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mwanzia-simon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
