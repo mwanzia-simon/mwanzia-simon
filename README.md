@@ -113,7 +113,7 @@ I'm currently focused on improving my skills as a **MERN Stack Developer**, with
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwanzia-simon&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=mwanzia-simon&theme=dark&hide_border=false" />
 </p>
 
 ---
