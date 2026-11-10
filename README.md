@@ -116,15 +116,9 @@ I'm currently focused on improving my skills as a **MERN Stack Developer**, with
   <img src="https://streak-stats.demolab.com/?user=mwanzia-simon&theme=dark&hide_border=false" />
 </p>
 
----
-
-## 📊 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mwanzia-simon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
----
 
 ## 🌍 Connect With Me
 
