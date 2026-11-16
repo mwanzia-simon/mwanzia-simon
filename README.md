@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
+<h1 align="center">
+  <code>&gt; Hello, I'm Simon Makau_</code>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;IT+Student;Building+Real+World+Applications;Always+Learning+New+Things&center=true&width=550&height=50">
+  <strong>Full-Stack Developer</strong>
+  <br/>
+  <samp>Turning ideas into practical software solutions.</samp>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mwanzia-simon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
