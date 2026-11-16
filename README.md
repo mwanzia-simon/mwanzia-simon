@@ -12,7 +12,6 @@
 
 🎓 IT Student and Software Developer passionate about building practical solutions. Experienced with the MERN stack, including React, Node.js, Express, and MongoDB. Interested in backend development, APIs, computer networking, and cybersecurity. Continuously learning, building real-world projects, and refining my technical skills.
 
----
 
 ## 🚀 Tech Stack
 
@@ -44,24 +43,9 @@
 </p>
 
 
----
-
 ## 📌 What I Build
 
-I enjoy building full-stack applications that combine a modern frontend with a structured and scalable backend.
-
-Some areas I work with include:
-
-* 🔐 User authentication & authorization
-* 👤 User and account management
-* 🛒 E-commerce functionality
-* 📦 Product & inventory management
-* 💳 Payment integrations
-* 📧 Email services and verification systems
-* 🔌 RESTful APIs
-* 🗄️ Database-driven applications
-* 📊 Admin dashboards
-* 🏗️ Service-based backend architecture
+I build full-stack web applications with a focus on functional user experiences, reliable backend systems, and scalable architecture. My work includes authentication, user management, e-commerce systems, RESTful APIs, database management, payment integrations, and administrative dashboards.
 
 ---
 
