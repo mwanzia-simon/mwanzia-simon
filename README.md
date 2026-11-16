@@ -56,16 +56,19 @@ I build full-stack web applications with a focus on functional user experiences,
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mwanzia-simon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.shion.dev/api?username=mwanzia-simon&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=mwanzia-simon&theme=dark&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mwanzia-simon&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mwanzia-simon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mwanzia-simon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ## 🌍 Connect With Me
