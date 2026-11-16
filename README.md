@@ -22,13 +22,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
 </p>
 
-* HTML5
-* CSS3
-* Tailwind CSS
-* JavaScript
-* TypeScript
-* React
-* Responsive Web Design
 
 ### ⚙️ Backend
 
@@ -36,13 +29,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
 </p>
 
-* Node.js
-* Express.js
-* REST APIs
-* Python
-* Flask
-* Authentication & Authorization
-* Backend Architecture
 
 ### 🗄️ Databases
 
@@ -50,10 +36,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
-* MongoDB
-* MySQL
-* SQLite
-* Database Design
 
 ### 🛠️ Tools & Technologies
 
@@ -61,11 +43,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
-* Git & GitHub
-* VS Code
-* Postman
-* npm
-* RESTful APIs
 
 ---
 
