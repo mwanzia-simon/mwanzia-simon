@@ -63,17 +63,23 @@ I build full-stack web applications with a focus on functional user experiences,
 
 ## 🌍 Connect With Me
 
-* GitHub: https://github.com/mwanzia-simon
-  
-* TikTok: https://www.tiktok.com/@unlistedcodelogic
-  
-* Linkedin: https://www.linkedin.com/in/simon-makau-mwanzia
-  
-* Instagram: https://www.instagram.com/unlisted_code_logic
-  
-* Youtube: https://youtube.com/@unlistedcodelogic
-
----
+<p align="left">
+  <a href="https://github.com/mwanzia-simon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@unlistedcodelogic">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/simon-makau-mwanzia">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/unlisted_code_logic">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@unlistedcodelogic">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 > "Consistency beats motivation."
 
