@@ -14,9 +14,11 @@
 </p>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mwanzia-simon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mwanzia-simon&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
 </p>
+
 
 ## 🧑‍💻 About Me
 
