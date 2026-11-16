@@ -10,15 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 IT Student passionate about software development
-* 💻 **MERN Stack Developer** focused on building full-stack web applications
-* ⚛️ Building modern and responsive interfaces with **React**
-* ⚙️ Developing backend APIs and services with **Node.js & Express**
-* 🍃 Working with **MongoDB** for database-driven applications
-* 🔐 Interested in authentication, authorization, APIs, and backend architecture
-* 🏗️ Currently building and improving real-world projects
-* 🧠 Constantly learning, experimenting, and improving my development skills
-
+🎓 IT Student and Software Developer passionate about building practical solutions. Experienced with the MERN stack, including React, Node.js, Express, and MongoDB. Interested in backend development, APIs, computer networking, and cybersecurity. Continuously learning, building real-world projects, and refining my technical skills.
 
 ---
 
