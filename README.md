@@ -74,12 +74,5 @@ I build full-stack web applications with a focus on functional user experiences,
 * Youtube: https://youtube.com/@unlistedcodelogic
 
 
-## 💡 Quote
-
 > "Consistency beats motivation."
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
