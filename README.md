@@ -47,22 +47,6 @@
 
 I build full-stack web applications with a focus on functional user experiences, reliable backend systems, and scalable architecture. My work includes authentication, user management, e-commerce systems, RESTful APIs, database management, payment integrations, and administrative dashboards.
 
----
-
-## 🔥 Current Focus
-
-I'm currently focused on improving my skills as a **MERN Stack Developer**, with particular interest in:
-
-* Backend architecture
-* Scalable APIs
-* Authentication & security
-* Database design
-* Third-party API integrations
-* Clean and maintainable code
-* Building complete production-style applications
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
