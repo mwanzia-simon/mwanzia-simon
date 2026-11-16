@@ -73,7 +73,6 @@ I build full-stack web applications with a focus on functional user experiences,
   
 * Youtube: https://youtube.com/@unlistedcodelogic
 
----
 
 ## 💡 Quote
 
