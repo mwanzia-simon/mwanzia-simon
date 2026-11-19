@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mwanzia-simon&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge&labelColor=1a1b27" alt="Profile Views"/>
+  <img src="https://github-badge-generator.onrender.com/api/badge/mwanzia-simon" alt="Profile Views"/>
 </p>
 
 
