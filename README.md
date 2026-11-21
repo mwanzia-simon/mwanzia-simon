@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://github-badge-generator.onrender.com/api/badge/mwanzia-simon?color=blue&v=2" alt="Profile Views"/>
+  <img src="https://github-badge-generator-psi.vercel.app/api/badge/mwanzia-simon?color=blue&v=2" alt="Profile Views"/>
 </p>
 
 
